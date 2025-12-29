@@ -3,7 +3,7 @@ import bannerImg01 from "../../assets/images/banner/Banner01.png";
 import bannerImg02 from "../../assets/images/banner/Banner02.png";
 import bannerImg03 from "../../assets/images/banner/Banner03.png";
 import { useEffect, useState, useRef } from "react"; 
-
+import { Link } from "react-router-dom";
 
 
 
@@ -60,7 +60,7 @@ const BannerSection = () => {
                     </div>
                     <div className="bnr-sec03">
                         <div className="bnr-btn">
-                            <link to="/guide">자세히 보러가기 →</link>
+                            <Link to="/guide">자세히 보러가기 →</Link>
                         </div>
                         <img src={bannerImg03} alt="배너 이미지 03" />
                     </div>
