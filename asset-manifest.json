@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/daengdaengharness/static/css/main.2ea8247a.css",
-    "main.js": "/daengdaengharness/static/js/main.b2821d14.js",
+    "main.js": "/daengdaengharness/static/js/main.de97d515.js",
     "static/media/BannerVideo.webm": "/daengdaengharness/static/media/BannerVideo.ba26c8ad7465f5477c5d.webm",
-    "static/media/detail-a.png": "/daengdaengharness/static/media/detail-a.4dbe7d4b17c7c9489559.png",
-    "static/media/detail-b.png": "/daengdaengharness/static/media/detail-b.875bd81439b638041412.png",
-    "static/media/detail-d.png": "/daengdaengharness/static/media/detail-d.f1a12c8a3988e0f48cec.png",
-    "static/media/detail-c.png": "/daengdaengharness/static/media/detail-c.b81284af8b292f252986.png",
+    "static/media/detail-A.png": "/daengdaengharness/static/media/detail-A.18bf4cd12b6d2e311411.png",
+    "static/media/detail-a.png": "/daengdaengharness/static/media/detail-a.18bf4cd12b6d2e311411.png",
+    "static/media/detail-B.png": "/daengdaengharness/static/media/detail-B.1576c59fe19fc4695ee7.png",
+    "static/media/detail-b.png": "/daengdaengharness/static/media/detail-b.1576c59fe19fc4695ee7.png",
+    "static/media/detail-D.png": "/daengdaengharness/static/media/detail-D.eeb5e5c80a675ff57b9c.png",
+    "static/media/detail-d.png": "/daengdaengharness/static/media/detail-d.eeb5e5c80a675ff57b9c.png",
+    "static/media/detail-C.png": "/daengdaengharness/static/media/detail-C.085d4ce1fc7e5e14f2cf.png",
+    "static/media/detail-c.png": "/daengdaengharness/static/media/detail-c.085d4ce1fc7e5e14f2cf.png",
     "static/media/Banner02.png": "/daengdaengharness/static/media/Banner02.6e73c5f826676af9847e.png",
     "static/media/g-op-img.png": "/daengdaengharness/static/media/g-op-img.4548cca2c039cdba1b5a.png",
     "static/media/g-b-img.png": "/daengdaengharness/static/media/g-b-img.d1acccf63b62826fcbee.png",
@@ -64,10 +68,10 @@
     "static/media/like.svg": "/daengdaengharness/static/media/like.3d46c44ea02796e7247929366847e6f7.svg",
     "index.html": "/daengdaengharness/index.html",
     "main.2ea8247a.css.map": "/daengdaengharness/static/css/main.2ea8247a.css.map",
-    "main.b2821d14.js.map": "/daengdaengharness/static/js/main.b2821d14.js.map"
+    "main.de97d515.js.map": "/daengdaengharness/static/js/main.de97d515.js.map"
   },
   "entrypoints": [
     "static/css/main.2ea8247a.css",
-    "static/js/main.b2821d14.js"
+    "static/js/main.de97d515.js"
   ]
 }
